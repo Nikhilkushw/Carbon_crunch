@@ -14,6 +14,7 @@
     top: 120%;
     right: 180px;
     margin-right: 210px;
+    font-family: 'DM Sans', sans-serif;
 }
 
 .div_content2_1{
@@ -21,12 +22,12 @@
 }
 
 .div1{
-    width: 172px;
-    height: 90.05px;
+    width: 162px;
+    height: 95.05px;
     border-radius: 11.91px;
     padding: 10.99px 14.65px;
     gap: 6.07px;
-    font-size: 14.71px;
+    font-size: 12.71px;
     background-color: #28B30E;
     position: absolute;
     left: 150px;
@@ -95,10 +96,10 @@
 }
 .div4 {
     width: 200px;
-    height: 85px;
+    height: 80px;
     border-radius: 11.91px;
     padding: 12.51px 13.83px;
-    font-size: 14.71px;
+    font-size: 12.71px;
     gap: 9.51px;
     display: flex;
     flex-direction: column;

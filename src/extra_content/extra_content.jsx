@@ -3,7 +3,7 @@ import "./extra_content.css"
 
 const extra_content = () => {
   return (
-    <div style={{width: "100%", height: "100%", backgroundColor: "black", display: "flex", justifyContent: "center"}}>
+    <div style={{width: "100%", height: "100%", backgroundColor: "black", display: "flex", justifyContent: "center", marginBottom: "100px"}}>
         <div className="div_content1">
         </div>
         <div className='div_content2'>

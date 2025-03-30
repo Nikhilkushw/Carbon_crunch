@@ -10,6 +10,10 @@
     background-color: #131316;
 }
 
+.content1 p{
+    font-family: "DM Sans', sans-serif"
+}
+
 .content2{
     width: 917px;
     height: 160px;
@@ -58,6 +62,12 @@
     line-height: 100%;
     letter-spacing: 2%;
     font-family: 'DM Sans', sans-serif;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px rgba(40, 179, 14, 0.8);
+}
+
+.content3 .button1:hover{
+    transform: scale(1.05);
 }
 
 .content3 .button2{
@@ -72,4 +82,10 @@
     font-size: 13px;
     color: #222222;
     border: none;
+    cursor: pointer;
+    box-shadow: 0px 0px 10px rgba(40, 179, 14, 0.8);
+}
+
+.content3 .button2:hover{
+    transform: scale(1.05);
 }
